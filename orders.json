@@ -1,0 +1,47 @@
+{
+  "SE428152686DE": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen, Truchthari-Anger 13, 81829 München, Deutschland",
+    "receiver": "Dr. Uli Hans Bräuning, Schwabstraße 13, 72119 Ammerbuch, Deutschland",
+    "price": "7.100,00 €",
+    "description": "Hersteller: Kawasaki<br>Typ: Z 900<br>Fahrgestelnummer: JKAZR900FFA0740468<br>Erstzulassung: 25.06.2024<br>KM laut Vorbesitzer: 3.498 km<br>Leistung: 92 kW (125 PS)<br>Hubraum: 948 cm³<br>Farbe: Rot/Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Dr. Uli Hans Bräuning<br>Schwabstraße 13<br>72119 Ammerbuch<br>Deutschland<br>Telefon: +49 7073 832010 oder +49 176 48271401",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "24.02.2026",
+    "deliveryDate": "02.03.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
